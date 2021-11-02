@@ -11,5 +11,4 @@ Fitness website to be linked with a fitness app. Started as a College project.
 
 
 ## `Project Preview`:
-
-(https://mian-ali.github.io/GymWebsite/)
+http://127.0.0.1:5500/GymWebsite-main/index.html
